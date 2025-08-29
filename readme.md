@@ -37,7 +37,7 @@ Mini_Chatbot_siriiii/
 
 3. Install Dependencies 
 
-    pip install -r requirements.txt
+    pip install openai python-dotenv pyttsx3
 
 4. Run the Chatbot
 
